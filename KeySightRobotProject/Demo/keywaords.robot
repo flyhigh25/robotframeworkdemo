@@ -43,7 +43,7 @@ EnterFormFields
     Enter Address
     Enter City
     Scroll Element Into View    name:submit-qcta
- # xpath Locater Exercise    
+# xpath Locater Exercise    
     Click Element   xpath://input[@value='Other']      
     Click Button    name:submit-qcta 
 BrowserAlert
